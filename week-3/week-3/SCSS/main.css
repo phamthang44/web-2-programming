@@ -1,0 +1,26 @@
+.title {
+  color: #3498db;
+  font-size: 2em;
+  text-align: center;
+}
+
+.card {
+  background: #ecf0f1;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 20px 0;
+}
+
+.button {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1em;
+}
+.button:hover {
+  background-color: rgb(33.1380753138, 125.1882845188, 186.8619246862);
+}/*# sourceMappingURL=main.css.map */
